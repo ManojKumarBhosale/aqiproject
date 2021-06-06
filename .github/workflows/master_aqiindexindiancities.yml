@@ -50,7 +50,7 @@ jobs:
       id: deploy-to-webapp
       uses: azure/webapps-deploy@v2
       with:
-        app-name: 'aqiindexindiancities'
+        app-name: 'aqidashboard'
         slot-name: 'production'
         publish-profile: ${{ secrets.AzureAppService_PublishProfile_f7cc19e5ff764342a55da90e28f532fd }}
         package: .
