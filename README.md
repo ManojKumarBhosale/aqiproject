@@ -9,11 +9,11 @@ It uses following npm packages :-
    Other paid libraries like HighCharts and canvas.js were also good options from performance point of view. But to reduce exploration time I have used Apex Charts).
 
 ## Access the project at this url
-https://aqiindexindiancities.azurewebsites.net/
+http://aqidashboard.azurewebsites.net/
 
 ## Time consumed for features
 1. Consuming data from websockets in Tabular form : 1 hour
 2. Creating charts for all cities : 30 min
 3. Creating single city chart: 30 min
-4. Deployment: 20 min 
+4. Deployment: 30 min 
 5. Miscellaneous(Exploration, refactoring) : 30 min
